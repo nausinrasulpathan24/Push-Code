@@ -1,0 +1,6 @@
+class Fistcode {
+  public static void main(String arg[])
+    {
+      System.out.println("Welcome to devOps Learnings");
+	}
+}
